@@ -14,6 +14,4 @@ Example :
   r1tch1e@forensic:~$ python hash.py -c file1 file2 -msx
 
 
-thomas.roccia@gmail.com
-
 @r1tch1e_
